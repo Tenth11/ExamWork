@@ -1,0 +1,15 @@
+C:\Users\user\Documents\ExamWork\ProgramCode\bin\Debug\net6.0\ProgramCode.exe
+C:\Users\user\Documents\ExamWork\ProgramCode\bin\Debug\net6.0\ProgramCode.deps.json
+C:\Users\user\Documents\ExamWork\ProgramCode\bin\Debug\net6.0\ProgramCode.runtimeconfig.json
+C:\Users\user\Documents\ExamWork\ProgramCode\bin\Debug\net6.0\ProgramCode.dll
+C:\Users\user\Documents\ExamWork\ProgramCode\bin\Debug\net6.0\ProgramCode.pdb
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ProgramCode.csproj.AssemblyReference.cache
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ProgramCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ProgramCode.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ProgramCode.AssemblyInfo.cs
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ProgramCode.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ProgramCode.dll
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\refint\ProgramCode.dll
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ProgramCode.pdb
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ProgramCode.genruntimeconfig.cache
+C:\Users\user\Documents\ExamWork\ProgramCode\obj\Debug\net6.0\ref\ProgramCode.dll
